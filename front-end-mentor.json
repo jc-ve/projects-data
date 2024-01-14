@@ -1,5 +1,13 @@
 [
   {
+    "title": "Newsletter Sign-Up Form with Success Message",
+    "projLink": "projects/junior/newsletter-signup-form-with-success-message/",
+    "codeLink": "https://github.com/jc-ve/front-end-mentor-challenges/tree/main/projects/junior/newsletter-signup-form-with-success-message",
+    "imgLink": "assets/images/thumbnail/newsletter-signup-form-with-success-message.webp",
+    "difficulty": "Junior",
+    "skills": ["HTML", "CSS", "SASS", "JavaScript"]
+  },
+  {
     "title": "Loopstudios Landing Page",
     "projLink": "projects/junior/loopstudios-landing-page/",
     "codeLink": "https://github.com/jc-ve/front-end-mentor-challenges/tree/main/projects/junior/loopstudios-landing-page",
