@@ -1,5 +1,61 @@
 [
   {
+    "title": "Social Media Dashboard with Theme Switcher",
+    "projLink": "projects/junior/social-media-dashboard-with-theme-switcher/",
+    "codeLink": "https://github.com/jc-ve/front-end-mentor-challenges/tree/main/projects/junior/social-media-dashboard-with-theme-switcher",
+    "imgLink": "assets/images/thumbnail/social-media-dashboard-with-theme-switcher.webp",
+    "difficulty": "Junior",
+    "skills": ["HTML", "CSS", "SASS", "JavaScript"]
+  },
+  {
+    "title": "Advice Generator App",
+    "projLink": "projects/junior/advice-generator-app/",
+    "codeLink": "https://github.com/jc-ve/front-end-mentor-challenges/tree/main/projects/junior/advice-generator-app",
+    "imgLink": "assets/images/thumbnail/advice-generator-app.webp",
+    "difficulty": "Junior",
+    "skills": ["HTML", "CSS", "SASS", "JavaScript"]
+  },
+  {
+    "title": "Time Tracking Dashboard",
+    "projLink": "projects/junior/time-tracking-dashboard/",
+    "codeLink": "https://github.com/jc-ve/front-end-mentor-challenges/tree/main/projects/junior/time-tracking-dashboard",
+    "imgLink": "assets/images/thumbnail/time-tracking-dashboard.webp",
+    "difficulty": "Junior",
+    "skills": ["HTML", "CSS", "SASS", "JavaScript"]
+  },
+  {
+    "title": "Recipe Page",
+    "projLink": "projects/newbie/recipe-page/",
+    "codeLink": "https://github.com/jc-ve/front-end-mentor-challenges/tree/main/projects/newbie/recipe-page",
+    "imgLink": "assets/images/thumbnail/recipe-page.webp",
+    "difficulty": "Newbie",
+    "skills": ["HTML", "CSS"]
+  },
+  {
+    "title": "Social Links Profile",
+    "projLink": "projects/newbie/social-links-profile/",
+    "codeLink": "https://github.com/jc-ve/front-end-mentor-challenges/tree/main/projects/newbie/social-links-profile",
+    "imgLink": "assets/images/thumbnail/social-links-profile.webp",
+    "difficulty": "Newbie",
+    "skills": ["HTML", "CSS"]
+  },
+  {
+    "title": "Intro Section with Dropdown Navigation",
+    "projLink": "projects/junior/intro-section-with-dropdown-navigation/",
+    "codeLink": "https://github.com/jc-ve/front-end-mentor-challenges/tree/main/projects/junior/intro-section-with-dropdown-navigation",
+    "imgLink": "assets/images/thumbnail/intro-section-with-dropdown-navigation.webp",
+    "difficulty": "Junior",
+    "skills": ["HTML", "CSS", "SASS", "JavaScript"]
+  },
+  {
+    "title": "Expenses Chart Component",
+    "projLink": "projects/junior/expenses-chart-component/",
+    "codeLink": "https://github.com/jc-ve/front-end-mentor-challenges/tree/main/projects/junior/expenses-chart-component",
+    "imgLink": "assets/images/thumbnail/expenses-chart-component.webp",
+    "difficulty": "Junior",
+    "skills": ["HTML", "CSS", "SASS", "JavaScript"]
+  },
+  {
     "title": "Newsletter Sign-Up Form with Success Message",
     "projLink": "projects/junior/newsletter-signup-form-with-success-message/",
     "codeLink": "https://github.com/jc-ve/front-end-mentor-challenges/tree/main/projects/junior/newsletter-signup-form-with-success-message",
