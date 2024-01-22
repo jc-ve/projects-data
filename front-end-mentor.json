@@ -1,5 +1,13 @@
 [
   {
+    "title": "Clipboard Landing Page",
+    "projLink": "projects/junior/clipboard-landing-page/",
+    "codeLink": "https://github.com/jc-ve/front-end-mentor-challenges/tree/main/projects/junior/clipboard-landing-page",
+    "imgLink": "assets/images/thumbnail/clipboard-landing-page.webp",
+    "difficulty": "Junior",
+    "skills": ["HTML", "CSS", "SASS"]
+  },
+  {
     "title": "Social Media Dashboard with Theme Switcher",
     "projLink": "projects/junior/social-media-dashboard-with-theme-switcher/",
     "codeLink": "https://github.com/jc-ve/front-end-mentor-challenges/tree/main/projects/junior/social-media-dashboard-with-theme-switcher",
