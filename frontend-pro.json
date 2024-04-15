@@ -1,7 +1,7 @@
 [
   {
     "title": "Accordion Component",
-    "projLink": "projects/beginner/accordion-component/",
+    "projLink": "projects/intermediate/accordion-component/",
     "codeLink": "https://github.com/jc-ve/frontend-pro/tree/main/projects/intermediate/accordion-component",
     "imgLink": "assets/images/thumbnail/accordion-component.webp",
     "skills": ["HTML", "CSS", "JavaScript"]
