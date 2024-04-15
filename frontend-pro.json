@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Accordion Component",
+    "projLink": "projects/beginner/accordion-component/",
+    "codeLink": "https://github.com/jc-ve/frontend-pro/tree/main/projects/intermediate/accordion-component",
+    "imgLink": "assets/images/thumbnail/accordion-component.webp",
+    "skills": ["HTML", "CSS", "JavaScript"]
+  },
+  {
+    "title": "Feedback Modal Component",
+    "projLink": "projects/beginner/feedback-modal-component/",
+    "codeLink": "https://github.com/jc-ve/frontend-pro/tree/main/projects/beginner/feedback-modal-component",
+    "imgLink": "assets/images/thumbnail/feedback-modal-component.webp",
+    "skills": ["HTML", "CSS", "JavaScript"]
+  },
+  {
+    "title": "Newsletter Card Component",
+    "projLink": "projects/beginner/newsletter-card-component/",
+    "codeLink": "https://github.com/jc-ve/frontend-pro/tree/main/projects/beginner/newsletter-card-component",
+    "imgLink": "assets/images/thumbnail/newsletter-card-component.webp",
+    "skills": ["HTML", "CSS", "JavaScript"]
+  },
+  {
+    "title": "Share Content Card Component",
+    "projLink": "projects/beginner/share-content-card-component/",
+    "codeLink": "https://github.com/jc-ve/frontend-pro/tree/main/projects/beginner/share-content-card-component",
+    "imgLink": "assets/images/thumbnail/share-content-card-component.webp",
+    "skills": ["HTML", "CSS", "JavaScript"]
+  },
+  {
+    "title": "Profile Card Component",
+    "projLink": "projects/beginner/profile-card-component/",
+    "codeLink": "https://github.com/jc-ve/frontend-pro/tree/main/projects/beginner/profile-card-component",
+    "imgLink": "assets/images/thumbnail/profile-card-component.webp",
+    "skills": ["HTML", "CSS"]
+  },
+  {
+    "title": "Blog Card Component",
+    "projLink": "projects/beginner/blog-card-component/",
+    "codeLink": "https://github.com/jc-ve/frontend-pro/tree/main/projects/beginner/blog-card-component",
+    "imgLink": "assets/images/thumbnail/blog-card-component.webp",
+    "skills": ["HTML", "CSS"]
+  }
+]
